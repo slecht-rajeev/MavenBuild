@@ -8,8 +8,6 @@ public class Thing {
   }
 
   public void setN(int n) {
-    
     this.n = n;
-    
   }
 }
